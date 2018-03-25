@@ -17,7 +17,7 @@ fmt.Print("Mike is intrested in: ", intests[n])
 ```
 
 ### Currently
-* Data E xternalization@ Optum Technology
+* Data Externalization @ Optum Technology
   * Working on building modern streaming platforms to serve data on a massive scale. My supervisor is the fantastic [@hmickman](https://twitter.com/hmickman). I'm also a member of the Technology Development Program.
 
 ### Previously
