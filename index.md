@@ -18,16 +18,27 @@ fmt.Print("Mike is intrested in: ", intests[n])
 
 ### Currently
 * Data Externalization @ Optum Technology
-* * Working on building modern stremaing platfroms to serve data on a massive scale. My supervisor is [@hmickman](https://twitter.com/hmickman).
+  * Working on building modern stremaing platfroms to serve data on a massive scale. My supervisor is the fantastic [@hmickman](https://twitter.com/hmickman). I'm also a member of the Technology Development Program.
 
+### Previously
+* Univeristy of Minnesota Duluth
+* Ameriprise Financial
+* UMD Tutoring Center
+* Keystone IT
+* and more...
 
+### A couple things I'm familiar with: 
+* Python
+* Java 9 -- In particular with Spring Boot + Gradle
+* AWS 
+* Apache Kafka / KStreams / KSQL / Schema Registry
+* Kubernetes
+* Docker
+* Jenkins
 
+### A few more locations I have a (hopefully miniscule) footprint:
+* [LinkedIn](https://www.linkedin.com/in/michael-schlosser/)
+* [Twitter](https://twitter.com/MikeSchlosser16)
+* [Github](https://github.com/MikeSchlosser16)
+* [Instagram](https://www.instagram.com/mikeschlosser16/)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/16/mikeschlosser16.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
