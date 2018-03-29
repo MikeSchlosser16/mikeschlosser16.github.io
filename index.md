@@ -1,7 +1,7 @@
 ## Welcome
 ```
 rand.Seed(time.Now().Unix())
-intrests := []string{
+interests := []string{
     "Software Engineering",
     "Space",
     "Math",
@@ -12,8 +12,8 @@ intrests := []string{
     "Education",
     "..."
 }
-n := rand.Int() % len(intrests)
-fmt.Print("Mike is intrested in: ", intests[n])
+n := rand.Int() % len(interests)
+fmt.Print("Mike is interested in: ", interests[n])
 ```
 
 ### Currently
