@@ -28,13 +28,19 @@ fmt.Print("Mike is interested in: ", interests[n])
 * and more...
 
 ### A couple things I'm familiar with: 
-* Python
 * Java 9 -- In particular with Spring Boot + Gradle
+* Python
 * AWS 
 * Apache Kafka / KStreams / KSQL / Schema Registry
 * Kubernetes
 * Docker
 * Jenkins
+* Cassandra
+
+### Tools I'm working on learning / would like to learn
+* Golang
+* Kotlin
+* R
 
 ### A few more locations I have a (hopefully miniscule) footprint:
 * [LinkedIn](https://www.linkedin.com/in/michael-schlosser/)
