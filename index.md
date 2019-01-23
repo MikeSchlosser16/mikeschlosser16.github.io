@@ -30,7 +30,7 @@ fmt.Print("Mike is interested in: ", interests[n])
 
 ### A couple things I'm familiar with:
 * Java 9 -- In particular with Spring Boot + Gradle
-* NodeJS
+* Go
 * Python
 * Apache Kafka / KStreams / KSQL / Schema Registry
 * AWS
@@ -41,7 +41,6 @@ fmt.Print("Mike is interested in: ", interests[n])
 * ElasticSearch
 
 ### Tools I'm working on learning / would like to learn
-* Golang
 * Kotlin
 * R
 
