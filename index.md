@@ -17,8 +17,8 @@ fmt.Print("Mike is interested in: ", interests[n])
 ```
 
 ### Currently
-* Senior Engineer - Data Externalization @ Optum Technology
-  * Working on building modern streaming platforms to serve data on a massive scale. My supervisor is the fantastic [@hmickman](https://twitter.com/hmickman). I'm also a member of the Technology Development Program.
+* Senior Engineer - Data Externalization @ Optum
+  * Working on building modern streaming platform to serve data on a massive scale. My supervisor is the fantastic [@hmickman](https://twitter.com/hmickman). I was also a member of the Technology Development Program.
   * In June 2018 I was promoted to senior developer.
 
 ### Previously
