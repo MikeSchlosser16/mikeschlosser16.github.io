@@ -18,8 +18,12 @@ fmt.Print("Mike is interested in: ", interests[n])
 
 ### Currently
 * Senior Engineer - Data Externalization @ Optum
-  * Working on building modern streaming platform to serve data on a massive scale. My supervisor is the fantastic [@hmickman](https://twitter.com/hmickman). I was also a member of the Technology Development Program.
-  * In June 2018 I was promoted to senior developer.
+  * Building distributed data platform using Go, Kafka, Cassandra and AWS.
+
+  - May 2019 - Present = Senior Software Engineer
+  - June 2018 - May 2019 = Software Engineer
+  - June 2017 - June 2018 = TDP
+
 
 ### Previously
 * University of Minnesota Duluth
@@ -29,7 +33,7 @@ fmt.Print("Mike is interested in: ", interests[n])
 * and more...
 
 ### A couple things I'm familiar with:
-* Java 9 -- In particular with Spring Boot + Gradle
+* Java -- In particular with Spring Boot + Gradle
 * Go
 * Python
 * Apache Kafka / KStreams / KSQL / Schema Registry
